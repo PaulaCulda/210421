@@ -1,0 +1,4 @@
+TOP 3: 
+bucatarie - -62.776840
+dormitor1 - -64.668233
+dormitor2 - -65.389463
